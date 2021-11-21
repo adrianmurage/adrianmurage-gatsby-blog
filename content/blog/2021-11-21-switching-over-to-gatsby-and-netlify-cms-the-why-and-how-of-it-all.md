@@ -71,4 +71,12 @@ publish_mode: editorial_workflow
 ```
 
 \
-And that gives you an entire publication workflow tab where you can manage drafts, drafts under review and published articles.
+And that gives you an entire publication workflow tab where you can manage drafts, drafts under review and published articles. 
+
+Netlify also offers you some pretty great features:
+
+* Build previews
+
+I also think I should pitch this article to section and name it :
+
+"How to setup an editorial work flow for your blog with Gatsby and Netlify CMS"
