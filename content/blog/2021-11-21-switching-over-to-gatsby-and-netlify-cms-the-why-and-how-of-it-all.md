@@ -93,3 +93,5 @@ Some resources:
 Next steps:
 
 Think about how to draft this up for section
+
+Think about how to add a word count for the editor
