@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Adrian Murage`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Adrian Murage`,
+      summary: `who lives and works in Nairobi building somewhat useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `The thoughts, experiences, and ideas of Adrian Murage.`,
+    siteUrl: `https://adrianmurage.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `adrianmurage`,
     },
   },
   plugins: [
