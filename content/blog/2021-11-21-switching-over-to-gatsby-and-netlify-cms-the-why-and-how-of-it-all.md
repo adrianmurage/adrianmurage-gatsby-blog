@@ -6,6 +6,8 @@ description: "Breakdown my exprience switching from Jekyll to Gatsby. "
 ---
 
 
+
+
 In this post, I'll be going over:
 
 * Why I am switching from Jekyll to Gatsby
@@ -80,3 +82,14 @@ Netlify also offers you some pretty great features:
 I also think I should pitch this article to section and name it :
 
 "How to setup an editorial work flow for your blog with Gatsby and Netlify CMS"
+
+It might also be interesting to work on a cross posting guide that essentially takes us through how to automate the cross posting process and dealing with cannonical urls
+
+Some resources:
+
+* [How to Automatically Cross-post from Your GatsbyJS Blog with RSS](https://www.freecodecamp.org/news/how-to-automatically-cross-post-from-your-gatsbyjs-blog-with-rss/)
+* [Creating canonical URLs for specific pages with Gatsby](https://markshust.com/2019/04/27/creating-canonical-urls-specific-pages-gatsby/)
+
+Next steps:
+
+Think about how to draft this up for section
