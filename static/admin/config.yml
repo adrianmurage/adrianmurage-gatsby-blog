@@ -12,6 +12,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+    meta:
+      - { label: "SEO Description", name: "description", widget: "text" }
 publish_mode: editorial_workflow
