@@ -19,7 +19,7 @@ I broke it down into these steps:
 3. remove invalid directions from the array
 4. if there still exists invalid directions after completing the loop restart the loop. Else terminate the loop
 
-I struggled for a while trying to figure out how to restart the loop. Eventually I settled on a while loop. Where the while loop's control statement is a function that checks for the presence of invalid directions and returns a boolean.
+I struggled for a while trying to figure out how to restart the loop. Eventually, I settled on a while loop. Where the while loop's control statement is a function that checks for the presence of invalid directions and returns a boolean.
 
 like so:
 
