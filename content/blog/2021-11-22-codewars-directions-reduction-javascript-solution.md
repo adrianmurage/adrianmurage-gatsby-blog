@@ -6,7 +6,6 @@ tags:
 published: true
 date: 2021-05-08T07:45:31.843Z
 ---
-
 This kata got you struggling too huh? Don't stress I got you.
 
 For good measure, if you're just passing by and have no idea what this is, you can find the kata instructions on [Codewars](https://www.codewars.com/kata/550f22f4d758534c1100025a/train/javascript).
