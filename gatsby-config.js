@@ -3,7 +3,7 @@ module.exports = {
     title: `Adrian Murage`,
     author: {
       name: `Adrian Murage`,
-      summary: `who lives and works in Nairobi building somewhat useful things.`,
+      summary: `A software developer who lives in Nairobi, studies at USIU-A, and is currently training to become`,
     },
     description: `The thoughts, experiences, and ideas of Adrian Murage.`,
     siteUrl: `https://adrianmurage.com/`,
@@ -51,12 +51,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `UA-175492717-1`,
+      },
+    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -105,7 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Adrian Murage Blog RSS Feed",
           },
         ],
       },
@@ -113,15 +113,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Adrian Murage`,
+        short_name: `adrianmurage`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/logo.svg`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
