@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Codewars | Directions Reduction | JavaScript Solution
+title: "Codewars | Directions Reduction | JavaScript Solution "
 tags:
   - practice
 published: true
