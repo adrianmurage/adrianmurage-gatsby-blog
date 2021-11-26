@@ -14,17 +14,17 @@ The instructor introduced us to Event Bubbling and how it might be useful for su
 
 How I understand event bubbling is:
 
-For a scenario like mine where I'm listening for clicks. The browser checks the element that was clicked for a click event handler executes it then moves up to the immediate ancestor(the elements parent) and repeats.
+For a scenario like mine where I'm listening for clicks. The browser checks the element that was clicked for a click event handler executes it then moves up to the immediate ancestor(the parent of the element) and repeats.
 
 This is especially useful for a case where you have several child elements. Where you can set one event listener on the parent that will register all events that happen on its child elements, regardless of the level of nesting.
 
 For a broader explanation see this [MDN article on event bubbling](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling_and_capture).
 
-For my calculator, I have a container div with the class `calculator`, the container div is then subdivided into row divs with the class `row` and inside each row I have the relevant buttons.
+For my calculator, I have a container div with the className `calculator`, the container div is then subdivided into row divs with the class `row` and inside each row, I have the relevant buttons.
 
 At this particular point, I'm focusing on the numeric buttons. 
 
-I would like to be able to listen for clicks on the numeric buttons. Once I accomplish that, I'll think through how to display the values on the calculators display.
+I would like to be able to listen for clicks on the numeric buttons. Once I accomplish that, I'll think through how to display the values on the calculator's display.
 
 To listen to the click events, I added an event listener to the container div. I then needed a way to target just the clicks made on the numeric buttons. 
 
