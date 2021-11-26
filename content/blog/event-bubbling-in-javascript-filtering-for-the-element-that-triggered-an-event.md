@@ -20,7 +20,6 @@ This is especially useful for a case where you have several child elements. Wher
 
 For a broader explanation see this [MDN article on event bubbling](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling_and_capture).
 
-
 For my calculator, I have a container div with the class `calculator`, the container div is then subdivided into row divs with the class `row` and inside each row I have the relevant buttons.
 
 At this particular point, I'm focusing on the numeric buttons. 
@@ -39,6 +38,6 @@ event.target.matches('.number')
 
 The full solution is included in the codepen below:
 
-{% include codepen.html hash="YzNbQOa" %}
+https://codepen.io/adrianmurage/pen/YzNbQOa
 
 Happy coding!
