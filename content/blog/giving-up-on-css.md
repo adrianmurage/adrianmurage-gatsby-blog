@@ -36,7 +36,7 @@ I gave up on learning how to use CSS for more complicated things. There were too
 
 I moved on to JavaScript and that was the last of my dedicated CSS learning.
 
-So yesterday I get a newsletter email from [Josh Comeau](joshwcomeau.com) to check out the [flex box openhouse](https://courses.joshwcomeau.com/css-for-js/04-flexbox/01-hello-world) for his [CSS for JavaScript Developers](https://css-for-js.dev/) course. It so happened that I had spent a good amount of time learning flex box and I was super curious to see how he tackled it. 
+So yesterday, I get a newsletter email from [Josh Comeau](joshwcomeau.com) to check out the [flex box openhouse](https://courses.joshwcomeau.com/css-for-js/04-flexbox/01-hello-world) for his [CSS for JavaScript Developers](https://css-for-js.dev/) course. It so happened that I had spent a good amount of time learning flex box and I was super curious to see how he tackled it. 
 
 So I dived in!
 
@@ -44,10 +44,10 @@ What I learnt made me finally at peace with quitting CSS.
 
 In about two videos he immediately made the idea of building responsive sites significantly less daunting for me and pointed out pitfalls that would otherwise take me ages to figure out on my own. It made two things immediately clear:
 
-* Learning from a skilled person like Josh was how I was meant to learn CSS
-* Now was not my time to learn CSS
+1. Learning from a skilled person like Josh was how I was meant to learn CSS
+2. Now was not my time to learn CSS
 
-My goal for learning Frontend development is to have the ability to build things on the internet and getting good at CSS makes that goal that much harder to attain!
+My goal for learning Frontend development is to have the ability to build things on the internet and setting getting good at CSS as a prerequisite for that, makes that goal that much harder to attain!
 
 So in the spirit of:
 
