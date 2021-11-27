@@ -14,7 +14,7 @@ The plan was:
 2. Learn some JavaScript 
 3. Learn React to build out little projects
 
-It was great. Up until I started trying out challenges on [frontend mentor](https://www.frontendmentor.io/). My confidence immediately took a hit as things that seemed minor like understanding the need for the reset below became increasingly challenging and frustrating: 
+It was great. Up until I started trying out challenges on [frontend mentor](https://www.frontendmentor.io/). My confidence immediately took a hit as things that seemed minor like understanding the need for the reset below became increasingly frustrating: 
 
 ```css
 * {
