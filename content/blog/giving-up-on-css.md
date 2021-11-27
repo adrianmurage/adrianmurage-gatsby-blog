@@ -53,7 +53,7 @@ So in the spirit of:
 
 > Get going > then get good
 
-I started learning [React on Scrimba](https://scrimba.com/learn/learnreact). Once I learn and build my many small projects, where I'll use bootstrap or tailwind for styling, and get the hang of building. I'll come back and learn from Josh. And while, in all honesty, the price tag on the course is mad daunting, I'll figure out how to get it. Because when you want something you go out and get it. Obstacles or not. 
+I started learning [React on Scrimba](https://scrimba.com/learn/learnreact). Once I learn and build my many small projects, where I'll use bootstrap or tailwind for styling. I'll come back and learn from Josh. And while, in all honesty, the price tag on the course is mad daunting, I'll figure out how to get it. Because when you want something you go out and get it. Obstacles or not. 
 
 And so, to the past version of Adrian, I would tell him to get his hands dirty first with React and get to building things. Simply because action breeds confidence. Then later come back and learn good design and styling.
 
