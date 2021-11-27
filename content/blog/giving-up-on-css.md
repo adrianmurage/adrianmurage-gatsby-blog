@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: " Giving up on Css"
+title: " Giving up on CSS"
 date: 2021-11-26T17:56:04.587Z
 description: Josh Comeau made me quit CSS.
 ---
@@ -8,11 +8,11 @@ CSS is a nightmare. One that I summoned willingly. In February 2021, I decided t
 
 I settled on two learning resources: [Freecodecamp](https://www.freecodecamp.org/) and [Frontend Masters](https://frontendmasters.com/) ([Github Student Developer Pack](https://education.github.com/pack)) and started out on my journey. \
 \
-The plan was to learn CSS, then learn some JavaScript, and eventually get into React to build out little projects.\
-\
-I dived head first into. Below is my Freecodecamp activity map:
+The plan was:
 
-![Freecodecamp activity](/images/uploads/freecodecamp.png)
+1. Learn CSS
+2. Learn some JavaScript 
+3. Learn React to build out little projects
 
 It was great up until I started trying out challenges on [frontend mentor](https://www.frontendmentor.io/). My confidence immediately took a hit as things that seemed minor like understanding the need for the reset below became increasingly challenging and frustrating: 
 
@@ -40,9 +40,9 @@ So yesterday I get a newsletter email from [Josh Comeau](joshwcomeau.com) to che
 
 So I dived in!
 
-What I learnt made me finally okay with quitting CSS. 
+What I learnt made me finally at peace with quitting CSS. 
 
-In about two videos he immediately made building responsive sites so much easier and pointed out pitfalls that would otherwise take me ages to figure out on my own. It made two things immediately clear:
+In about two videos he immediately made the idea of building responsive sites significantly less daunting for me and pointed out pitfalls that would otherwise take me ages to figure out on my own. It made two things immediately clear:
 
 * Learning from a skilled person like Josh was how I was meant to learn CSS
 * Now was not my time to learn CSS
@@ -51,8 +51,10 @@ My goal for learning Frontend development is to have the ability to build things
 
 So in the spirit of:
 
-> Get going then get good
+> Get going > then get good
 
-I started learning [React on Scrimba](https://scrimba.com/learn/learnreact). Once I learn and build my many small things projects, where I'll use bootstrap for styling, and get the hang of building. I'll come back and learn from Josh. And while in all honesty, the price tag on the course is mad daunting, I'll figure out how to get it. Because when you want something you go out and get it. Obstacles or not. 
+I started learning [React on Scrimba](https://scrimba.com/learn/learnreact). Once I learn and build my many small projects, where I'll use bootstrap or tailwind for styling, and get the hang of building. I'll come back and learn from Josh. And while, in all honesty, the price tag on the course is mad daunting, I'll figure out how to get it. Because when you want something you go out and get it. Obstacles or not. 
 
-And so to the past version of Adrian, I would tell him to get his hands dirty first with React and get to building things. Simply because action breeds confidence. Then later come back and learn good design and styling.
+And so, to the past version of Adrian, I would tell him to get his hands dirty first with React and get to building things. Simply because action breeds confidence. Then later come back and learn good design and styling.
+
+And that, dear reader, is why I am giving up on CSS. For now ; )
