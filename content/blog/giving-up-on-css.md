@@ -28,9 +28,7 @@ body {
 }
 ```
 
-Ultimately I ended up building only one component, [the profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ), and gave up on the frontend mentor challenges. My version's code can be found on [GitHub](https://github.com/adrianmurage/profile-card-component) and deployed on [Github.io](https://adrianmurage.github.io/profile-card-component/). Here's an image, just to make your life a tad bit easier: 
-
-![adrian murage's version of the profile card component ](/images/uploads/profile-card.png)
+Ultimately I ended up building only one component, [the profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ), and gave up on the frontend mentor challenges. My version's code can be found on [GitHub](https://github.com/adrianmurage/profile-card-component) and deployed on [Github.io](https://adrianmurage.github.io/profile-card-component/). 
 
 I gave up on learning how to use CSS for more complicated things. There were too many things that didn't make sense. 
 
