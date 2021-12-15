@@ -1,0 +1,17 @@
+---
+layout: blog
+title: Atempting to Save my Digital Electronics Class
+date: 2021-12-15T15:02:10.531Z
+---
+So, I took a digital electronics class in Fall 2021. I was completely zoned out for the majority of the semester. Towards the end, we were given a project to work on. I'll figure out a way to attach the document here after I'm done figuring this out.
+
+Because I paid no attention to the course I have a very vague idea of how to get it done. So this is my attempt to learn what I need to know to attempt building a 4 bit ALU. 
+
+Because having an understanding of what is happening is somewhat important to me I've settled on using the [Nand to Tetris](https://www.nand2tetris.org/) course to figure this out.
+
+## Getting Started
+The promo video on the landing page of [Nand to Tetris](https://www.nand2tetris.org/) states that per week it might take 5 -10 hours to cover the course work. 
+
+The ALU bit appears on week 2 on [Nand to Tetris](https://www.nand2tetris.org/). Meaning that if I approximate the work to take me 10 hours each week, it should take me about 20 hours to understand how to build the ALU and build it on the software that the [Nand to Tetris](https://www.nand2tetris.org/) course uses. Then I think I'll give myself 5 hours to translate this to a [Digital works](https://www.google.com/search?q=what+is+digital+works+software&ei=VAa6Yfn0BYu5gweqoqHgBA&ved=0ahUKEwj57sKYjOb0AhWL3OAKHSpRCEwQ4dUDCA4&uact=5&oq=what+is+digital+works+software&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAIEB46BwgAEEcQsAM6BAgAEA06CAgAEAgQBxAeSgQIQRgASgQIRhgAUOsHWLkVYJ8XaAJwAngAgAHTAogBiBOSAQUyLTguMZgBAKABAcgBCMABAQ&sclient=gws-wiz) design.
+
+Aight, I'll go get cracking then come back at the 5 hours of work done mark to give updates.
