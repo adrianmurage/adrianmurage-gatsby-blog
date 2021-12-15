@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Atempting to Save my Digital Electronics Class
+title: Atempting to Save my Digital Electronics Class | Day 1
 date: 2021-12-15T15:02:10.531Z
 ---
 So, I took a digital electronics class in Fall 2021. I was completely zoned out for the majority of the semester. Towards the end, we were given a project to work on. I'll figure out a way to attach the document here after I'm done figuring this out.
@@ -30,3 +30,12 @@ A google search yielded [this forum](https://www.bilibili.com/read/cv12873940) t
 It turns out that all the XOR-related files need to be in a directory by themselves.
 
 Doing this set me on my way to completing the task.
+
+## End of Day 1
+I managed to complete the content for week 1. A task that took about 3 hours. 
+
+Slight disclaimer tho, I had completed units 1.1 - 1.3 earlier and I had paid attention to some of my digital electronics classes so the material was familiar. 
+
+I might need to come back to the content a few times as I attempt to complete the week 1 project. 
+
+We'll see... 
