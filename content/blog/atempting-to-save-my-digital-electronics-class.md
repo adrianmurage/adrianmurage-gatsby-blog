@@ -15,3 +15,18 @@ The promo video on the landing page of [Nand to Tetris](https://www.nand2tetris.
 The ALU bit appears on week 2 on [Nand to Tetris](https://www.nand2tetris.org/). Meaning that if I approximate the work to take me 10 hours each week, it should take me about 20 hours to understand how to build the ALU and build it on the software that the [Nand to Tetris](https://www.nand2tetris.org/) course uses. Then I think I'll give myself 5 hours to translate this to a [Digital works](https://www.google.com/search?q=what+is+digital+works+software&ei=VAa6Yfn0BYu5gweqoqHgBA&ved=0ahUKEwj57sKYjOb0AhWL3OAKHSpRCEwQ4dUDCA4&uact=5&oq=what+is+digital+works+software&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAIEB46BwgAEEcQsAM6BAgAEA06CAgAEAgQBxAeSgQIQRgASgQIRhgAUOsHWLkVYJ8XaAJwAngAgAHTAogBiBOSAQUyLTguMZgBAKABAcgBCMABAQ&sclient=gws-wiz) design.
 
 Aight, I'll go get cracking then come back at the 5 hours of work done mark to give updates.
+
+So I'm back. But it's only been an hour and a half and I ran into my first error
+
+## Comparison Failure at Line 3
+**Task: ** \
+write the logic for a Xor gate using the Hardware Definition Language[HDL] provided by [Nand to Tetris](https://www.nand2tetris.org/) and test it. 
+
+**Error:**\
+`comparison failure at line 3`
+
+A google search yielded [this forum](https://www.bilibili.com/read/cv12873940) that set me on the right path.
+
+It turns out that all the XOR-related files need to be in a directory by themselves.
+
+Doing this set me on my way to completing the task.
