@@ -19,7 +19,7 @@ Aight, I'll go get cracking then come back at the 5 hours of work done mark to g
 So I'm back. But it's only been an hour and a half and I ran into my first error
 
 ## Comparison Failure at Line 3
-**Task: ** \
+**Task:** \
 write the logic for a Xor gate using the Hardware Definition Language[HDL] provided by [Nand to Tetris](https://www.nand2tetris.org/) and test it. 
 
 **Error:**\
