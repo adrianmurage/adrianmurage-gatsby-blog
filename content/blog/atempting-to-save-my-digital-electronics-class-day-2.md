@@ -32,3 +32,5 @@ CHIP Not {
 ```
 
 I was pleased as now I have all I need to go forward with the rest of the gates.
+
+With that done. I'll call it a day and then get back to this tomorrow.
