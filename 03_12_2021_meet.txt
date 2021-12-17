@@ -1,0 +1,13 @@
+1. looking up 
+2. looking down
+3. Normal
+4. looking left
+5. looking right
+
+Tasks
+1. Setup env
+2. Follow up with code
+3. Download data set: https://www.kaggle.com/deadskull7/fer2013
+4. create gdrive and upload data set
+5. follow up on asure training
+6. Do the up down classification
